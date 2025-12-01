@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(208, 240, 208);
+}
+h2{
+    color: rgb(187, 199, 209);
+    border: 5px solid;
+    border-top-color: goldenrod;
+    border-left-color: goldenrod;
+    border-right-color: rgb(156, 144, 74);
+    border-bottom-color: rgb(156, 144, 74);
+    background-color: rgb(42, 71, 42);
+}
+h3{
+    color: rgb(187, 199, 209);
+    border: 2px solid;
+    background-color: rgb(50, 80, 50);
+}
+.shoukaku{
+    max-width: 380px;
+    height: auto;
+}
+.sapotoplayer{
+    max-width: 350px;
+    height: auto;
+}
+.ajisuta{
+    max-width: 600px;
+    height: auto;
+}
+.fctono{
+    max-width: 410px;
+    height: auto;
+}
+.taniguchi{
+    max-width: 200px;
+    height: auto;
+}
+.someno{
+    max-width: 200px;
+    height: autos;
+}
+.mateusu{
+    max-width: 250px;
+    height: auto;
+}

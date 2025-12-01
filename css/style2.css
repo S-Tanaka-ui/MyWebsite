@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(208, 240, 208);
+}
+h2{
+    color: rgb(187, 199, 209);
+    border: 5px solid;
+    border-top-color: goldenrod;
+    border-left-color: goldenrod;
+    border-right-color: rgb(156, 144, 74);
+    border-bottom-color: rgb(156, 144, 74);
+    background-color: rgb(42, 71, 42);
+}
